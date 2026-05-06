@@ -1,0 +1,4 @@
+Model,F1-Score,Precision,Recall
+"Tuned RF (n=200, depth=10) + Threshold 0.5",0.4098,0.3072,0.6152
+Class Weights + Opt Threshold (0.45),0.4003,0.33,0.42
+Original SMOTE (threshold 0.5),0.3907,0.3185,0.5052
